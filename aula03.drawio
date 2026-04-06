@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15" version="29.6.6">
+  <diagram name="Page-1" id="0ghQFK7zlEo7xI9z4rk2">
+    <mxGraphModel dx="830" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="04KS--ga_DIbo9ZYnIV_-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="250" width="500" x="100" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="04KS--ga_DIbo9ZYnIV_-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Região: Ohio" vertex="1">
+          <mxGeometry height="30" width="90" x="100" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="04KS--ga_DIbo9ZYnIV_-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="110" width="250" x="130" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="04KS--ga_DIbo9ZYnIV_-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Zona A" vertex="1">
+          <mxGeometry height="30" width="60" x="225" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="04KS--ga_DIbo9ZYnIV_-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Privada:&lt;br&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(15, 20, 26); color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px; text-align: start; white-space: nowrap; background-color: rgb(240, 251, 255);&quot;&gt;10.0.1.0/24&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="205" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="04KS--ga_DIbo9ZYnIV_-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="110" width="250" x="330" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="04KS--ga_DIbo9ZYnIV_-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Zona B" vertex="1">
+          <mxGeometry height="30" width="60" x="425" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="04KS--ga_DIbo9ZYnIV_-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Privada:&lt;br&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(15, 20, 26); color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px; text-align: start; white-space: nowrap; background-color: rgb(240, 251, 255);&quot;&gt;10.0.2.0/24&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="405" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="04KS--ga_DIbo9ZYnIV_-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Pública:&lt;br&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(15, 20, 26); color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px; text-align: start; white-space: nowrap; background-color: rgb(240, 251, 255);&quot;&gt;10.0.3.0/24&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="205" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="04KS--ga_DIbo9ZYnIV_-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Pública:&lt;br&gt;&lt;div&gt;&lt;span style=&quot;caret-color: rgb(15, 20, 26); color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px; text-align: start; white-space: nowrap; background-color: rgb(240, 251, 255);&quot;&gt;10.0.4.0/24&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="405" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="04KS--ga_DIbo9ZYnIV_-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="VPC" vertex="1">
+          <mxGeometry height="30" width="50" x="100" y="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
